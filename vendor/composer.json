@@ -1,0 +1,5 @@
+{
+    "require": {
+        "yiisoft/yii2-smarty": "^2.0"
+    }
+}
